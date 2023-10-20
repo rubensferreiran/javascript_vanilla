@@ -1,0 +1,41 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.container-img {
+  position: relative;
+  width: 900px;
+  height: 700px;
+  border-radius: 14px;
+  margin: 0 auto;
+  box-sizing: border-box;
+  box-shadow: 6px 6px 18px 1px rgba(0, 0, 0, 0.75);
+}
+.images img {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  border-radius: 14px;
+  opacity: 0;
+  transition: 1s;
+}
+
+.bullets {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.bullet-single {
+  margin: 0 8px;
+  cursor: pointer;
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #ccc;
+}
+
+.active-bullet {
+  background-color: #333;
+}
