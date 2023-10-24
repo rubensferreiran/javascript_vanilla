@@ -6,6 +6,6 @@
 
 <!--ts-->
 
-- [Slider](#slider)
-- [Generator Color](#generator-color)
+- [Slider]
+- [Generator Color]
 <!--te-->
