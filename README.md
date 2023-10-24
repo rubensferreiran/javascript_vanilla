@@ -4,8 +4,5 @@
 
 # Tabela de conteúdos
 
-<!--ts-->
-
-- [Slider]
-- [Generator Color]
-<!--te-->
+1. Slider
+2. Color Generator
